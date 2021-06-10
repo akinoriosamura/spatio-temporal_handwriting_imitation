@@ -1,0 +1,1 @@
+/Users/0frz18064/.local/share/virtualenvs/spatio-temporal_handwriting_imitation-k2YJwmcN/lib/python3.7/site-packages/numpy/core/include/numpy

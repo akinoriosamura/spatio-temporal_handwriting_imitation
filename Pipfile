@@ -1,0 +1,20 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+matplotlib = "==3.1.2"
+numpy = "==1.18.1"
+scikit-learn = "==0.21.3"
+scikit-image = "==0.16.2"
+scipy = "==1.4.1"
+tqdm = "==4.36.1"
+pybind11 = "==2.4.3"
+torchvision = ">=0.5.0"
+Pillow = "==7.0.0"
+
+[requires]
+python_version = "3.7"

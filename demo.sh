@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SCRIPTPATH=$( cd $(dirname $(readlink -f $0)) ; pwd -P )
+SCRIPTPATH=$( pwd -P )
 
 export PYTHONPATH=$PYTHONPATH:"$SCRIPTPATH"
 

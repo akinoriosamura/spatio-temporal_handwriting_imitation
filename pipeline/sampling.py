@@ -2,7 +2,8 @@
 from algorithms.skeleton_to_graph import skeleton_to_graph
 from algorithms.resolve_strokes import resolve_strokes
 from algorithms.graph_to_strokes import graph_to_strokes
-from algorithms.resample_strokes import resample_strokes_smooth, resample_strokes_constant
+from algorithms.resample_strokes import resample_strokes_smooth
+from algorithms.resample_strokes import resample_strokes_constant
 from algorithms.strokes_to_penpositions import strokes_to_penpositions
 
 import numpy as np
